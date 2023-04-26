@@ -8,12 +8,17 @@ Integración conitnua: Integraciones automáticas en el proyecto en cortos perio
 
 Entrega continua: Producción en ciclos cortos para una producción rápida (se asegura que el software puede ser liberado en cualquier momento).
 
+Las herramientos CI/CD combinan ambos métodos de trabajo.
 
 ## ¿Qué es, y dentro de que grupo de las herramientas CI/DC esta?
+
+
 
 ## ¿Qué ofrece?
 
 ## Plan de precios.
+
+
 
 ## Ejemplo de integración co repositorios de código.
 
