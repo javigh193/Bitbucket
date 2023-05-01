@@ -24,6 +24,7 @@ Uno de sus puntos fuertes es su integración con Jira y Trello, ambas herramient
     <li><a href="/CICD/README.md">Desarrollo Continuo de Software: CI + CD</a></li>
     <li><a href="/Jira/README.md">Jira: Gestión de Proyectos</a></li>
     <li><a href="/Trello/README.md">Trello: Gestión de Proyectos</a></li>
+    <li><a href="/Cuenta/README.md">Cuenta de prueba</a>
 </ul>
 
 </div>
