@@ -1,59 +1,38 @@
 <div align="center">
 
- <img src="Bitbucket_logo.webp" width="30%"> 
+ <img src="CI_CD/img/Bitbucket_logo.webp" width="30%"> 
 
 # <p style="color:#2684FF"> Bitbucket </p>
 
 </div>
 
-<hr>
-
 <div align="justify">
 
-## ¿Qué son las herramientas CI/CD?
+## ¿Qué es Bitbucket?
 
-<br>
+Bitbucket es una herramienta de gestión de repositorios de Git el cual permite tener un espacio para colaborar en proyectos así como también facilita el despliegue.
 
-<p>CI y CD son las siglas correspondientes a Continous Integraition y Continuous Deployment.</p>
+Esta herramienta de alojamiento de código y colaboración cuenta con tres opciones de despliegue, Bitbucket Cloud, Bitbucket Data Center y Bitbucket Server. Cada una de ellas con sus propias características.
 
-<p>El concepto de Continous Integretaion se basa en la automatización de la integración de nuestro código a un repositorio central, donde 
-cada commit que se realiza ejecuta un conjunto de tareas o tests encargados de verificar que el código es apto para hacer un merge sobre
-la rama main o master.</p>
+Bitbucket trabaja con el controlador de versiones Git.
 
-<p>Por otro lado el Contious Deployment, donde todo código que se encuentra testeado se despliega automáticamente bien en un servidor de testing o en un servidor de producción.</p>
+Una de las característas destacables es que integrado su propia herramienta <a href="CI_CD/README.md">CI/CD</a>.
 
-<div align="center">
+Bitbucket además se integra muy bien con Jira (issue tracking),Trello (kanban) y Bamboo(herramienta <a href="CI_CD/README.md">CI/CD</a>). Tanto Bitbucket como estos tres últimos productos son propiedad de Atlassian.
 
-<img src="CI_CD.png">
+Uno de los puntos más importantes de esta herramienta es la posibilidad de tener repositorios privados ilimitados para, como máximo, 5 colaboradores.
 
-</div>
+## Índice de contenido
 
-Existen diversas herramientas de terceros para CI/CD como puede ser Circleci, TC, Buddy, Concourse, entre otras. Pero sin embargo, la más popular de las herramientas de integración conitnua es Jenkins.
-
-<br>
-
-<div align="center">
-
-<img src="Jenkins_logo.svg" width="50%">
-
-</div>
-
-<br>
-
-Por otro lado cada herramienta de gestión de proyectos puede tener la suya propia. En nuestro caso Atlassian (propietario de Bitbucket) cuenta con la herramienta de integración y despliegue Bamboo.
-
-<br>
-
-<div align="center">
-
-<img src="Bamboo_logo.png" width="50%">
-
-</div>
-
-<br>
-
-Hay que tener en cuenta, además, que el uso de la herramienta de integración y despliegue es independiente de la herramienta de gestión de proyectos que se esté utilizando. Esto quiere decir que Bitbucket podria utilizarse junto con CI/CD Gitlab por ejemplo, sin ningún problema.
-
-En resumen las herramientas CI/CD simplifican el trabajador del desarollador a simplemente la creación/modificación del código junto con su correspondientes commits y pushes.
+- <a href="CI_CD/REAMDE.md">¿Qué son las herramientas CI/CD?</a>
+- <a>¿Qué ofrece Bitbucket?</a>
+- <a>Plan de precios</a>
+- <a href="ejemplo_integracion_codigo/README.md">Ejemplo de intregración con repositorios de código</a>
+- <a>Ejemplo de documentación de proyectos</a>
+- <a>Jira</a>
+- <a>Trello</a>
+- <a>Bamboo</a>
+- <a>Comparativa con Github</a>
+- <a>Ventajas</a>
 
 </div>
