@@ -28,9 +28,8 @@ Uno de los puntos más importantes de esta herramienta es la posibilidad de tene
 - <a href="que_ofrece/README.md">¿Qué ofrece Bitbucket?</a>
 - <a href="plan_precios/README.md">Plan de precios</a>
 - <a href="ejemplo_integracion_codigo/README.md">Ejemplo de intregración con repositorios de código</a>
-- <a>Ejemplo de documentación de proyectos</a>
-- <a>Jira</a>
-- <a>Trello</a>
+- <a href="ejemplo_documentacion/README.md">Ejemplo de documentación de proyectos</a>
+- <a href="Jira_Trello/README.md">Jira y Trello</a>
 - <a>Bamboo</a>
 - <a>Comparativa con Github</a>
 - <a>Ventajas</a>
