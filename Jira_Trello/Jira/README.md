@@ -12,7 +12,7 @@
 
 <p>Para ello nos situamos sobre el proyecto y en el desplegable situado en la parte izquierda de la pantalla seleccionaremos Jira Issues.</p>
 
-<p>na vez hecho esto solo queda seguir los pasos de enlace.</p>
+<p>Una vez hecho esto solo queda seguir los pasos de enlace.</p>
 
 <br>
 
