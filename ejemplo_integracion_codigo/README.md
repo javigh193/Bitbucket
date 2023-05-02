@@ -8,6 +8,10 @@
 
 <div align="justify">
 
+## Creación de un repositorio y añadido de contenido
+
+<br>
+
 <p>Una vez nos hemos registrado en Bitbucket (bien sea con una cuenta de google o incluso con una cuenta de Github), el siguiente paso es crear nuestro workspace, el cual tendrá un nombre y una url única.</p>
 
 <p>Un workspace es un espacio donde podremos agrupar todos nuestros repositorios dedicados a un tema en concreto. Es posible tener más de un workspace, lo que nos permite una mejor organización.</p>
