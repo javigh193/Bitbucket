@@ -24,7 +24,7 @@ Uno de los puntos más importantes de esta herramienta es la posibilidad de tene
 
 ## Índice de contenido
 
-- <a href="CI_CD/REAMDE.md">¿Qué son las herramientas CI/CD?</a>
+- <a href="CI_CD/README.md">¿Qué son las herramientas CI/CD?</a>
 - <a href="que_ofrece/README.md">¿Qué ofrece Bitbucket?</a>
 - <a href="plan_precios/README.md">Plan de precios</a>
 - <a href="ejemplo_integracion_codigo/README.md">Ejemplo de intregración con repositorios de código</a>
