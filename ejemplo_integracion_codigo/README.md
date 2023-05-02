@@ -18,11 +18,11 @@
 
 <img src="img/1.PNG">
 
-<br>
+<br><br>
 
 <img src="img/2.PNG">
 
-<br>
+<br><br>
 
 <img src="img/3.PNG">
 
@@ -30,7 +30,7 @@
 
 <br>
 
-Una vez dentro de nuestro Workspace tendremos la opción de crear nuestro repositorio. En este apartado podremos darle un nombre al projecto para así agrupar diferentes repositorios en uno mismo. Además también tendremos la opción de proporcionar un nombre de repositorio, el tipo de acceso que tendrá el mismo, la inclusión de un README con plantilla, el nombre de la branch principal y la inclusión o no de un .gitignore.
+<p>Una vez dentro de nuestro Workspace tendremos la opción de crear nuestro repositorio. En este apartado podremos darle un nombre al projecto para así agrupar diferentes repositorios en uno mismo. Además también tendremos la opción de proporcionar un nombre de repositorio, el tipo de acceso que tendrá el mismo, la inclusión de un README con plantilla, el nombre de la branch principal y la inclusión o no de un .gitignore.</p>
 
 <br>
 
@@ -38,7 +38,7 @@ Una vez dentro de nuestro Workspace tendremos la opción de crear nuestro reposi
 
 <img src="img/4.PNG">
 
-<br>
+<br><br>
 
 <img src="img/5.PNG">
 
@@ -46,7 +46,7 @@ Una vez dentro de nuestro Workspace tendremos la opción de crear nuestro reposi
 
 </div>
 
-Una vez creado el repositorio este podrá ser clonado en remoto por medio de HTTPS o SSH.
+<p>Una vez creado el repositorio este podrá ser clonado en remoto por medio de HTTPS o SSH.</p>
 
 <br>
 
@@ -58,14 +58,16 @@ Una vez creado el repositorio este podrá ser clonado en remoto por medio de HTT
 
 <br>
 
-Para la creación de una nueva rama en el desplegable de la izquierda se encuentra la opción de "Branches" donde podremos administrar las mismas.
-Dentro de esta opción podremos especificar el tipo de rama que vamos a crear, de que otra rama hereda el contenido así como el nombre que le queremos dar.
+<p>Para la creación de una nueva rama en el desplegable de la izquierda se encuentra la opción de "Branches" donde podremos administrar las mismas.
+Dentro de esta opción podremos especificar el tipo de rama que vamos a crear, de que otra rama hereda el contenido así como el nombre que le queremos dar.</p>
+
+<br>
 
 <div align="center">
 
 <img src="img/8.PNG">
 
-<br>
+<br><br>
 
 <img src="img/9.PNG">
 
@@ -73,7 +75,7 @@ Dentro de esta opción podremos especificar el tipo de rama que vamos a crear, d
 
 <br>
 
-La siguiente característica a ver son los pull request. Una vez se haya realizado un cambio en la nueva rama y este se haya subido al repositorio remoto, se podrá hacer un pull request a otros colaboradores para revisar los cambios y aceptarlos para realizar el merge con la rama main o master.
+<p>La siguiente característica a ver son los pull request. Una vez se haya realizado un cambio en la nueva rama y este se haya subido al repositorio remoto, se podrá hacer un pull request a otros colaboradores para revisar los cambios y aceptarlos para realizar el merge con la rama main o master.</p>
 
 <br>
 
@@ -85,7 +87,7 @@ La siguiente característica a ver son los pull request. Una vez se haya realiza
 
 <br>
 
-En este apartado se puede poner un título al pull request, especificar que ramas se quieren mezclar, una descripción de lo que se ha hecho para que los colaboradores tengan más información, qué colaboradores deben hacer la review así como también si la rama en cuestión ha de borrarse una vez hecho el merge.
+<p>En este apartado se puede poner un título al pull request, especificar que ramas se quieren mezclar, una descripción de lo que se ha hecho para que los colaboradores tengan más información, qué colaboradores deben hacer la review así como también si la rama en cuestión ha de borrarse una vez hecho el merge.</p>
 
 <br>
 
@@ -93,11 +95,11 @@ En este apartado se puede poner un título al pull request, especificar que rama
 
 <img src="img/11.PNG">
 
-<br>
-
 </div>
 
-Una vez aprobado se puede proceder a realizar el merge. En esta parte del proceso se podrá poner un commit así como la estrategia de merge que se quiere seguir y si se ha de cerrar o no la branch.
+<br>
+
+<p>Una vez aprobado se puede proceder a realizar el merge. En esta parte del proceso se podrá poner un commit así como la estrategia de merge que se quiere seguir y si se ha de cerrar o no la branch.</P>
 
 <br>
 
@@ -105,7 +107,7 @@ Una vez aprobado se puede proceder a realizar el merge. En esta parte del proces
 
 <img src="img/13.PNG">
 
-<br>
+<br><br>
 
 <img src="img/14.PNG">
 
