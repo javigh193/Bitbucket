@@ -69,6 +69,58 @@ Atlassian dedica una sección a dicha comparativa, ofreciendo incluso distintos 
 
 ## Cuenta gratuita de prueba
 
+### Registro
 
+El registro para probar gratuitamente es muy sencillo, se pide un email para enviar una verificación y se debe definir un nombre de usuario y un nombre del sitio asociado al usuario. 
+
+Me dan a elegir si quiero probar la integración con Jira ( también gratuitamente ), marco que sí. 
+
+<div style="text-align: center;">
+    <img src="img/registro.png">
+</div>
+
+Una vez terminados los procesos de creación correspondientes, me redirigen a mi 'workspace'. 
+
+La interfaz es bastante ligera, con una barra de navegación partida en dos, por un lado la navegación entre subpáginas de la gestión de los proyectos y por otro lado los recursos de búsqueda, ayuda, perfil y configuración. El resto de la página sigue una distribución vertical en la que primero me muestra repositorios, debajo pull requests y por último issues. Ahora mismo todas las secciones están vacías. 
+
+<div style="text-align: center;">
+    <img src="img/nav1.png">
+</div>
+
+<div style="text-align: center;">
+    <img src="img/nav2.png">
+</div>
+
+<div style="text-align: center;">
+    <img src="img/main_body.png">
+</div>
+
+### Integrar un repositorio de Git
+
+Desde mi workspace tengo la opción de crear un repositorio o bien importarlo, opto por la última opción.
+
+<div style="text-align: center;">
+    <img src="img/importar_repo.png">
+</div>
+
+Una vez dentro del repositorio la interfaz mantiene su sencillez, un menú de navegación en el margen izquierdo y una zona principal donde se muestra la información correspondiente al punto en el que nos encontramos.  
+
+<div style="text-align: center;">
+    <img src="img/repo_ui.png">
+</div>
+
+Es muy práctico disponer del menú general en la parte superior y el menú del repositorio en la parte izquierda. Todas las opciones están a un clic de distancia sin dificultar la visualización en la pantalla de la información tratada en cada momento.
+
+La gestión de ramas, commits y pull requests es similar a Github, la interfaz más limpia, lo cual se agradece.
+
+El resto de funciones escapan a los objetivos actuales de este repositorio, serán evaluados proximamente.
+
+## Documentación
+
+Se pueden editar los documentos online. Permite obtener una previsualización de cómo se vería el documento, trabajar con diferentes sintaxis y visualizar solamente los cambios respecto al documento de partida. 
+
+<div style="text-align: center;">
+    <img src="img/menu_edicion.png">
+</div>
 
 </div>
