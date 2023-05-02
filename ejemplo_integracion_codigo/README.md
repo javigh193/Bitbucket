@@ -42,9 +42,9 @@
 
 <img src="img/5.PNG">
 
-<br>
-
 </div>
+
+<br>
 
 <p>Una vez creado el repositorio este podrá ser clonado en remoto por medio de HTTPS o SSH.</p>
 
