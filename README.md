@@ -6,6 +6,8 @@
 
 ## Índice de contenidos
 
+[¿Qué es Bitbucket](https://github.com/javigh193/Bitbucket/edit/main/README.md#qu%C3%A9-es-bitbucket)
+
 <ul>
 <li><a href="#title1">¿Qué es Bitbucket?</a></li>
 <li><a href="#title2">¿Qué son las herramientas CI/CD?</a></li>
@@ -27,5 +29,16 @@ Uno de sus puntos fuertes es su integración con Jira y Trello, ambas herramient
 
 ## ¿Qué son las herramientas CI/CD?
 
+CI y CD son las siglas correspondientes a Continous Integraition y Continuous Deployment.
 
+El concepto de Continous Integretaion se basa en la automatización de la integración de nuestro código a un repositorio central, donde 
+cada commit que se realiza ejecuta un conjunto de tareas o tests encargados de verificar que el código es apto para hacer un merge sobre
+la rama main o master.
 
+Por otro lado el Contious Deployment, donde todo código que se encuentra testeado se despliega automáticamente bien en un servidor de testing o en un servidor de producción.
+
+<div align="center">
+
+<img src="img/CI_CD.png">
+
+</div>
