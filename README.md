@@ -150,6 +150,9 @@ Se pueden editar los documentos online. Permite obtener una previsualización de
 
 ### Wikis
 
+Diferentes niveles de acceso
+Independencia entre repositorio y wiki
+
 <img src="img/wiki_page.PNG">
 
 </div>
