@@ -155,4 +155,8 @@ Independencia entre repositorio y wiki
 
 <img src="img/wiki_page.PNG">
 
+## Otras herramientas con las que se integran 
+
+https://www.youtube.com/watch?v=slU60fbyj70
+    
 </div>
