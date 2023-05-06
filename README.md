@@ -6,7 +6,7 @@
 
 ## Índice de contenidos
 
-[¿Qué es Bitbucket](https://github.com/javigh193/Bitbucket/tree/main#qu%C3%A9-es-bitbucket)
+- [¿Qué es Bitbucket](https://github.com/javigh193/Bitbucket/tree/main#qu%C3%A9-es-bitbucket)
 
 <ul>
 <li><a href="#title1">¿Qué es Bitbucket?</a></li>
