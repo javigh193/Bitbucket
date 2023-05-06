@@ -3,3 +3,29 @@
 <div style="background: white; padding: 2vw;">
     <img src="img/Atlassian_Bitbucket_Logo.png">
 </div>
+
+## Índice de contenidos
+
+<ul>
+<li><a href="#title1">¿Qué es Bitbucket?</a></li>
+<li><a href="#title2">¿Qué son las herramientas CI/CD?</a></li>
+<li><a href="#title3">¿Qué es, y dentro de que grupò de las herramientas CI/CD esta?</a></li>
+<li><a href="#title4">Plan de precios</a></li>
+<li><a href="#title5">Ejemplo de integración de código</a></li>
+<li><a href="#title6">Ejemplo de documentación de proyectos</a></li>
+<li><a href="#title7">Otras herramientas con las que se integra</a></li>
+<li><a href="#title8">Comparativa con otras herramientas</a></li>
+<li><a href="#title9">¿Por qué escoger esta herramienta frente a otras?</a></li>
+
+</ul>
+
+## <div id="title1">¿Qué es Bitbucket?</div>
+
+Bitbucket Cloud es un servicio de 'hosting' basado en Git y una herramienta de colaboración para facilitar la coordinación de equipos de trabajo. Provee una solución completa para implementar un 'Desarrollo Continuo de Software' ( CI + CD ). 
+
+Uno de sus puntos fuertes es su integración con Jira y Trello, ambas herramientas del mismo desarrollador que Bitbucker: Atlassian. La combinación de estas tres herramientas busca cubrir todas las necesidades de un equipo de desarrolladores en su día a día. 
+
+## ¿Qué son las herramientas CI/CD?
+
+
+
