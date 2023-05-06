@@ -125,6 +125,10 @@ Como se ha mencionado en apartados anteriores, Bitbucket Cloud cuenta con una he
 
 Para acceder a la creación de nuestro pipeline existen dos opciones. Se puede crear de forma manual, simplemente añadiendo un fichero yml desde cero o bien puede utilizarse las plantillas que proporciona la propia herramienta.
 
+Una vez definido el fichero yml a utilizar, podrá ser accedido por pipelines a travéz de la plataforma. 
+
+Para poder habilitar Pipelines se deberá habilitar primero la verificación en dos pasos.
+
 <br>
 
 <div align="center">
@@ -162,5 +166,12 @@ Además de todo esto, la interfaz de creación cuenta con un apartado de plantil
 <div align="center">
 
 <img src="img/18.PNG">
+
+</div>
+
+<br>
+
+Por defecto el proceso CI/CD se ejecutará tras realizar un pull request 
+
 
 </div>
