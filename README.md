@@ -150,6 +150,6 @@ Se pueden editar los documentos online. Permite obtener una previsualización de
 
 ### Wikis
 
-<img src="img/wiki_page">
+<img src="img/wiki_page.PNG">
 
 </div>
