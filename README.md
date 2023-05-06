@@ -65,6 +65,10 @@ Por otro lado cada herramienta de gestión de proyectos puede tener la suya prop
 
 </div>
 
+## Plan de precios
+
+
+
 <br>
 
 Hay que tener en cuenta, además, que el uso de la herramienta de integración y despliegue es independiente de la herramienta de gestión de proyectos que se esté utilizando. Esto quiere decir que Bitbucket podria utilizarse junto con CI/CD Gitlab por ejemplo, sin ningún problema.
