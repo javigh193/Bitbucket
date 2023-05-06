@@ -54,6 +54,6 @@ Por otro lado cada herramienta de gestión de proyectos puede tener la suya prop
 
 Hay que tener en cuenta, además, que el uso de la herramienta de integración y despliegue es independiente de la herramienta de gestión de proyectos que se esté utilizando. Esto quiere decir que Bitbucket podria utilizarse junto con CI/CD Gitlab por ejemplo, sin ningún problema.
 
-En resumen las herramientas CI/CD simplifican el trabajador del desarollador a simplemente la creación/modificación del código junto con su correspondientes commits y pushes.
+En resumen las herramientas CI/CD simplifican el trabajo del desarollador, permitiendole definir una serie de reglas que automaticen en gran medida el flujo de trabajo posterior a la elaboración del código.
 
 </div>
