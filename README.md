@@ -20,8 +20,6 @@ Una de las característas destacables es que integrado su propia herramienta <a 
 
 Bitbucket además se integra muy bien con Jira (issue tracking),Trello (kanban) y Bamboo(herramienta <a href="CI_CD/README.md">CI/CD</a>). Tanto Bitbucket como estos tres últimos productos son propiedad de Atlassian.
 
-Uno de los puntos más importantes de esta herramienta es la posibilidad de tener repositorios privados ilimitados para, como máximo, 5 colaboradores.
-
 ## Índice de contenido
 
 - <a href="CI_CD/README.md">¿Qué son las herramientas CI/CD?</a>

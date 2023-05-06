@@ -117,4 +117,50 @@ Dentro de esta opción podremos especificar el tipo de rama que vamos a crear, d
 
 </div>
 
+<br>
+
+## Pipelines
+
+Como se ha mencionado en apartados anteriores, Bitbucket Cloud cuenta con una herramienta CI/CD integrada, Pipelines. Esta nos permite, a travéz de un fichero yml la automatización de procesos de integración y despliegue.
+
+Para acceder a la creación de nuestro pipeline existen dos opciones. Se puede crear de forma manual, simplemente añadiendo un fichero yml desde cero o bien puede utilizarse las plantillas que proporciona la propia herramienta.
+
+<br>
+
+<div align="center">
+
+<img src="img/15.PNG">
+
+<br><br>
+
+<img src="img/16.PNG">
+
+</div>
+
+<br>
+
+A continuación se muestran algunas de las plantillas disponibles
+
+<br>
+
+<div align=="center">
+
+<img src="img/17.PNG">
+
+</div>
+
+<br>
+
+El fichero yml que se creará cuenta con una serie de apartados. En primer lugar encontramos la imágen que se va a utilizar, en este caso se trata de una máquina ubuntu, por lo que los scripts que se lanzarán serán en bash. Seguido de esto se encuentran una serie de pasos con sus propios nombres cada uno así como con el script deseado.
+
+La última parte de este fichero corresponde a los pasos de despliegue, los cuales al igual que los anteriores tendrán un nombre, un script asociado así como triggers.
+
+Además de todo esto, la interfaz de creación cuenta con un apartado de plantillas, opciones para añadir nuevos steps así como una amplia variedad integraciones.
+
+<br>
+
+<div align="center">
+
+<img src="img/18.PNG">
+
 </div>

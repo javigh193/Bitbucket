@@ -25,7 +25,7 @@ En la siguiente imagen se muestran aquellas características solo disponibles pa
 
 <br>
 
-Así pues los planes disponibles serían los siguientes
+Así pues los planes disponibles son los siguientes
 
 <br>
 
