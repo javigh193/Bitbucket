@@ -160,7 +160,7 @@ Atlassian dedica una sección a dicha comparativa, ofreciendo incluso distintos 
 
 <br>
 
-<p>Una vez dentro de nuestro Workspace tendremos la opción de crear nuestro repositorio. En este apartado podremos darle un nombre al projecto para así agrupar diferentes repositorios en uno mismo. Además también tendremos la opción de proporcionar un nombre de repositorio, el tipo de acceso que tendrá el mismo, la inclusión de un README con plantilla, el nombre de la branch principal y la inclusión o no de un .gitignore.</p>
+<p>Una vez dentro de nuestro Workspace podemos crear nuestro repositorio o un proyecto donde agrupar diferentes repositorios. Podemos configurar diferentes aspectos del repositorio como el tipo de acceso que tendrá el mismo, la inclusión de un README con plantilla, el nombre de la branch principal y la inclusión o no de un .gitignore.</p>
 
 <br>
 
@@ -176,7 +176,7 @@ Atlassian dedica una sección a dicha comparativa, ofreciendo incluso distintos 
 
 <br>
 
-<p>Una vez creado el repositorio este podrá ser clonado en remoto por medio de HTTPS o SSH.</p>
+Una vez creado el repositorio este podrá ser clonado en remoto por medio de HTTPS o SSH.
 
 <br>
 
@@ -205,7 +205,7 @@ Dentro de esta opción podremos especificar el tipo de rama que vamos a crear, d
 
 <br>
 
-<p>La siguiente característica a ver son los pull request. Una vez se haya realizado un cambio en la nueva rama y este se haya subido al repositorio remoto, se podrá hacer un pull request a otros colaboradores para revisar los cambios y aceptarlos para realizar el merge con la rama main o master.</p>
+La siguiente característica a ver son los pull request. Una vez se haya realizado un cambio en la nueva rama y éste se haya subido al repositorio remoto, se podrá hacer un pull request a otros colaboradores para revisar los cambios y aceptarlos para realizar el merge con la rama main o master.
 
 <br>
 
@@ -217,7 +217,7 @@ Dentro de esta opción podremos especificar el tipo de rama que vamos a crear, d
 
 <br>
 
-<p>En este apartado se puede poner un título al pull request, especificar que ramas se quieren mezclar, una descripción de lo que se ha hecho para que los colaboradores tengan más información, qué colaboradores deben hacer la review así como también si la rama en cuestión ha de borrarse una vez hecho el merge.</p>
+En este apartado se puede poner un título al pull request, especificar que ramas se quieren mezclar, una descripción de lo que se ha hecho para que los colaboradores tengan más información, qué colaboradores deben hacer la review así como también si la rama en cuestión ha de borrarse una vez hecho el merge.
 
 <br>
 
@@ -229,7 +229,7 @@ Dentro de esta opción podremos especificar el tipo de rama que vamos a crear, d
 
 <br>
 
-<p>Una vez aprobado se puede proceder a realizar el merge. En esta parte del proceso se podrá poner un commit así como la estrategia de merge que se quiere seguir y si se ha de cerrar o no la branch.</P>
+Una vez aprobado se puede proceder a realizar el merge. En esta parte del proceso se podrá poner un commit así como la estrategia de merge que se quiere seguir y si se ha de cerrar o no la branch.
 
 <br>
 
@@ -247,7 +247,7 @@ Dentro de esta opción podremos especificar el tipo de rama que vamos a crear, d
 
 ### Pipelines
 
-Como se ha mencionado en apartados anteriores, Bitbucket Cloud cuenta con una herramienta CI/CD integrada, Pipelines. Esta nos permite, a travéz de un fichero yml la automatización de procesos de integración y despliegue.
+Como se ha mencionado en apartados anteriores, Bitbucket Cloud cuenta con una herramienta CI/CD integrada, Pipelines. Ésta nos permite, a travéz de un fichero yml la automatización de procesos de integración y despliegue.
 
 Para acceder a la creación de nuestro pipeline existen dos opciones. Se puede crear de forma manual, simplemente añadiendo un fichero yml desde cero o bien puede utilizarse las plantillas que proporciona la propia herramienta.
 
@@ -297,7 +297,7 @@ Además de todo esto, la interfaz de creación cuenta con un apartado de plantil
 
 <br>
 
-Por defecto el proceso CI/CD se ejecutará tras realizar un pull request 
+Por defecto el proceso CI/CD se ejecutará tras realizar un pull request. 
 
 ## <div id="title5">Ejemplo documentación de proyecto</div>
 
