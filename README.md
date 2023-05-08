@@ -682,7 +682,16 @@ Creadas las páginas estas se verán en nuestro espacio de la siguiente manera
 <br>
 
 Por último, Confluence nos brinda la opción de realizar exportaciones de nuestros espacios en formato CSV, HTML, XML y PDF.
+    
+<br>
 
+<div align="center">
+
+<img src="img/opciones_exportar.PNG">
+
+</div>
+
+<br>
 
 </div>
 
