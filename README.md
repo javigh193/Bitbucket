@@ -7,6 +7,7 @@
 ## Índice de contenidos
 
 <ul>
+
 <li><a href="#title1">¿Qué es Bitbucket?</a></li>
 <li><a href="#title2">¿Qué son las herramientas CI/CD?</a></li>
 <li><a href="#title3">Plan de precios</a></li>
