@@ -138,16 +138,6 @@ Atlassian dedica una sección a dicha comparativa, ofreciendo incluso distintos 
 
 ## Ejemplo integración de código
 
-<div align="center">
-
- <img src="../CI_CD/img/Bitbucket_logo.webp" width="30%"> 
-
-# <p style="color:#2684FF"> Bitbucket </p>
-
-</div>
-
-## Creación de un repositorio y añadido de contenido
-
 <br>
 
 <p>Una vez nos hemos registrado en Bitbucket (bien sea con una cuenta de google o incluso con una cuenta de Github), el siguiente paso es crear nuestro workspace, el cual tendrá un nombre y una url única.</p>
