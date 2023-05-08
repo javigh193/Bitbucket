@@ -287,9 +287,66 @@ La última parte de este fichero corresponde a los pasos de despliegue, los cual
 
 Además de todo esto, la interfaz de creación cuenta con un apartado de plantillas, opciones para añadir nuevos steps así como una amplia variedad integraciones.
 
+A continuación el fichero yml en cuestión:
+
+
+
+    # This is an example Starter pipeline configuration
+    # Use a skeleton to build, test and deploy using manual and parallel steps
+    # -----
+    # You can specify a custom docker image from Docker Hub as your build environment.
+
+    image: atlassian/default-image:3
+
+    pipelines:
+    default:
+        - parallel:
+        - step:
+            name: 'Build and Test'
+            script:
+                - echo "Your build and test goes here..."
+        - step:
+            name: 'Lint'
+            script:
+                - echo "Your linting goes here..."
+        - step:
+            name: 'Security scan'
+            script:
+                - echo "Your security scan goes here..."
+    branches: 
+        main: 
+        - parallel:
+        - step:
+            name: 'Build and Test'
+            script:
+                - echo "Esto es para probar"
+        - step:
+            name: 'Lint'
+            script:
+                - echo "Sigo probando"
+        - step:
+            name: 'Security scan'
+            script:
+                - echo "Magnífico"
+
+    # The following deployment steps will be executed for each pipeline run. To configure your steps and conditionally deploy see https://support.atlassian.com/bitbucket-cloud/docs/configure-bitbucket-pipelinesyml/
+    - step:
+        name: 'Deployment to Staging'
+        deployment: staging
+        script:
+          - echo "Your deployment to staging script goes here..."
+    - step:
+        name: 'Deployment to Production'
+        deployment: production
+        script:
+          - echo "Your deployment to production script goes here..."
+
+
 <br>
 
 <div align="center">
+
+<br><br>
 
 <img src="img/18.PNG">
 
@@ -297,7 +354,39 @@ Además de todo esto, la interfaz de creación cuenta con un apartado de plantil
 
 <br>
 
-Por defecto el proceso CI/CD se ejecutará tras realizar un pull request. 
+Por defecto el proceso CI/CD se ejecutará tras realizar un commit. 
+
+Una vez realizado el proceso especificado en el trigger se irán realizando de manera secuencial los pasos descritos en el yml 
+
+<br>
+
+<div align="center">
+
+<img src="img/corriendo_pipelines.png">
+
+<br><br>
+
+<img src="img/finalizado_deployment_staging.png">
+
+<br><br>
+
+<img src="img/finalizado_deploy.png">
+
+</div>
+
+<br>
+
+En este caso en particular, se ha especificado en el yml que el despliegue a producción se deba hacer de forman manual, es por esto que en la última imágen mostrada no aparece el deployment to production como finalizado. Para ello simplemente habrá que pulsar en el botón de deploy.
+
+<br>
+
+<div align="center">
+
+<img src="img/lanzar_a_produccion.png">
+
+</div>
+
+<br>
 
 ## <div id="title5">Ejemplo documentación de proyecto</div>
 
@@ -311,10 +400,34 @@ Se pueden editar los documentos online. Permite obtener una previsualización de
 
 ### Wikis
 
-Diferentes niveles de acceso
-Independencia entre repositorio y wiki
+La creación de wikis en Bitbucket es muy sencilla. Simplmente habrá que implementar esta opción dentro de las opciones de nuestro repositorio. Una vez hecho esto se podrá elegir el tipo de wiki que deseamos crear, esta puede ser pública o privada, así como también se pujede agregar la opción de que cualquier persona con acceso a la misma pueda editarla.
+
+<br>
+
+<div align="center">
 
 <img src="img/wiki_page.PNG">
+
+</div>
+<br>
+
+Una vez configurada nuestra wiki, solo queda añadirle la documentación deseada.
+
+<br>
+
+<div align="center">
+
+<img src="img/prueba_wiki.png">
+
+<br><br>
+
+<img src="img/indice.png">
+
+</div>
+
+<br>
+
+En el siguiente apartado se mostrará otra forma de realizar documentación a través de Confluence.
 
 ## <div id="title6">Otras herramientas con las que se integran</div> 
 
@@ -483,6 +596,95 @@ Mediante 'Butler', Trello permite automatizar casi cualquier acción mediante la
     <img src="img/butler.jpg">
 </div>
 
+<br><br>
+
+<div align="center">
+
+<img src="img/confluence_logo.png" width="400px">
+
+</div>
+
+<br>
+
+<hr>
+
+Para la documentación de proyectos existe una herramienta propiedad de Atlassian, Confluence, una de las más utilizadas junto con Notion para la creación de wikis.
+
+Esta herramienta se integra muy bien con otras como puede ser Jira y Trello. Además da la opción de exportar la documentación a diversos formatos como PDF, HTML y XML.
+
+Para la utilización de esta herramienta solo será necesaria una cuenta de Atlassian. Una vez ingresamos a la plataforma se podrá definir un espacio, éste será el lugar de documentación.
+
+Así pues Confluence nos da la opción de utilizar una serie de plantillas o bien crear nuestro espacio desde cero.
+
+<br>
+
+<div align="center">
+
+<img src="img/creacion_espacio.png">
+
+</div>
+
+<br>
+
+Una vez elegida la plantilla (en nuestro caso se utilizará la de documentación), se deberá de dar un nombre al mismo.
+
+
+<br>
+
+<div align="center">
+
+<img src="img/nombre_plantilla.png">
+
+</div>
+
+<br>
+
+Definido el espacio, solo queda la creación de páginas. Para ello, en la parte izquierda de la interfaz se encuentra la opción de creación de nuevas páginas.
+
+<br>
+
+<div align="center">
+
+<img src="img/creacion_paginas.png">
+
+</div>
+
+<br>
+
+Al igual que en la creación de espacios, cada página puede ser creada desde cero o utilizar plantillas que se ajusten a nuestras necesidades. En este caso, por ejemplo, se han utilizado las plantillas de "Artículos de instrucciones" y "Artículo de solución de problemas". Cada una de ellas especifica el contenido que deberíamos de volcar en las mismas.
+
+Además cabe la posibilidad de importar nuestros propios documentos externos para convertirlos en una página de confluence.
+
+<br>
+
+<div align="center">
+
+<img src="img/creacion_pagina2.png">
+
+<br><br>
+
+<img src="img/creacion_pagina3.png">
+
+</div>
+
+<br>
+
+Creadas las páginas estas se verán en nuestro espacio de la siguiente manera
+
+<br>
+
+<div align="center">
+
+<img src="img/visualizacion_paginas.png">
+
+</div>
+
+<br>
+
+Por último, Confluence nos brinda la opción de realizar exportaciones de nuestros espacios en formato CSV, HTML, XML y PDF.
+
+
+</div>
+
 https://www.youtube.com/watch?v=slU60fbyj70
     
-</div>
