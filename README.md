@@ -27,7 +27,7 @@ Bitbucket Cloud es un servicio de 'hosting' basado en Git y una herramienta de c
 
 Uno de sus puntos fuertes es su integración con Jira y Trello, ambas herramientas del mismo desarrollador que Bitbucker: Atlassian. La combinación de estas tres herramientas busca cubrir todas las necesidades de un equipo de desarrolladores en su día a día. 
 
-## ¿Qué son las herramientas CI/CD?
+## <div id="title2">¿Qué son las herramientas CI/CD?</div>
 
 CI y CD son las siglas correspondientes a Continous Integraition y Continuous Deployment.
 
@@ -71,7 +71,7 @@ Hay que tener en cuenta, además, que el uso de la herramienta de integración y
 
 En resumen las herramientas CI/CD simplifican el trabajo del desarollador, permitiendole definir una serie de reglas que automaticen en gran medida el flujo de trabajo posterior a la elaboración del código.
 
-## Plan de precios
+## <div id="title3">Plan de precios</div>
 
 Los precios varían en función del tipo de plan, la cantidad de usuarios y el tipo de hosting. Atlassian nos da una calculadora para poder indicar nuestras necesidades aproximadas y obtener una estimación instantánea de lo que nos costaría.
 
@@ -136,7 +136,7 @@ Atlassian dedica una sección a dicha comparativa, ofreciendo incluso distintos 
     <img src="img/comparativa.png">
 </div>
 
-## Ejemplo integración de código
+## <div id="title4">Ejemplo integración de código</div>
 
 <br>
 
@@ -247,7 +247,7 @@ Dentro de esta opción podremos especificar el tipo de rama que vamos a crear, d
 
 <br>
 
-## Pipelines
+### Pipelines
 
 Como se ha mencionado en apartados anteriores, Bitbucket Cloud cuenta con una herramienta CI/CD integrada, Pipelines. Esta nos permite, a travéz de un fichero yml la automatización de procesos de integración y despliegue.
 
@@ -301,7 +301,7 @@ Además de todo esto, la interfaz de creación cuenta con un apartado de plantil
 
 Por defecto el proceso CI/CD se ejecutará tras realizar un pull request 
 
-## Ejemplo documentación de proyecto
+## <div id="title5">Ejemplo documentación de proyecto</div>
 
 ### Editor de documentos
 
@@ -318,7 +318,7 @@ Independencia entre repositorio y wiki
 
 <img src="img/wiki_page.PNG">
 
-## Otras herramientas con las que se integran 
+## <div id="title6">Otras herramientas con las que se integran</div> 
 
 <div style="background: white; padding: 2vw;">
     <img src="img/Jira_Logo.png">
@@ -330,7 +330,7 @@ Bitbucket está integrado con Jira, una herramienta, también de Atlassian, que 
 
 Bitbucket avisa automáticamente a Jira de los cambios en el código, de forma que Jira puede generar toda la información asociada a los mismos: actualización de paneles, seguimiento de los "issues" en tiempo real, etc. De esta forma el programador ve aligerada su carga de trabajo asociada a la documentación y se evitan posibles discrepancias entre el estado real del código y el reflejado en las herramientas de gestión del proyecto. 
 
-## Herramientas provistas por Jira
+### Herramientas provistas por Jira
 
 <hr>
 
@@ -415,7 +415,7 @@ Dentro del tablero se distinguen diferentes listas. Cada lista define una etapa 
 
 Las tareas se representan mediante tarjetas. Cada tarjeta contiene toda la información necesaria para la correcta realización y seguimiento de la tarea asociada. Las tarjetas se desplazan por las diferentes listas definidas en el tablero a medida que van siendo atendidas. 
 
-## La tarjeta
+### La tarjeta
 
 <div style="background: white; padding: 2vw;">
     <img src="img/trello_card.png">
@@ -467,13 +467,13 @@ Genera una representación visual de los datos del proyecto, permitiendo elabora
 
 Existen otras vistas predefinidas y también la posibilidad de crear vistas personalizadas para adaptarse a las necesidades particulares del usuario. 
 
-## Integración
+### Integración
 
 Trello permite la integración de aplicaciones para ampliar o adaptar sus funcionalidades. 
 
 <a href="https://trello.com/power-ups">Power-ups para Trello</a>
 
-## Automatización
+### Automatización
 
 Mediante 'Butler', Trello permite automatizar casi cualquier acción mediante la creación de reglas, comandos y botones. La programación se realiza sin necesidad de escribir el código, haciéndolo accesible a todo tipo de usuarios.
 
