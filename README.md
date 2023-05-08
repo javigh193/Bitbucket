@@ -6,18 +6,15 @@
 
 ## Índice de contenidos
 
-- [¿Qué es Bitbucket](https://github.com/javigh193/Bitbucket/tree/main#qu%C3%A9-es-bitbucket)
-
 <ul>
 <li><a href="#title1">¿Qué es Bitbucket?</a></li>
 <li><a href="#title2">¿Qué son las herramientas CI/CD?</a></li>
-<li><a href="#title3">¿Qué es, y dentro de que grupò de las herramientas CI/CD esta?</a></li>
-<li><a href="#title4">Plan de precios</a></li>
-<li><a href="#title5">Ejemplo de integración de código</a></li>
-<li><a href="#title6">Ejemplo de documentación de proyectos</a></li>
-<li><a href="#title7">Otras herramientas con las que se integra</a></li>
-<li><a href="#title8">Comparativa con otras herramientas</a></li>
-<li><a href="#title9">¿Por qué escoger esta herramienta frente a otras?</a></li>
+<li><a href="#title3">Plan de precios</a></li>
+<li><a href="#title4">Ejemplo de integración de código</a></li>
+<li><a href="#title5">Ejemplo de documentación de proyectos</a></li>
+<li><a href="#title6">Otras herramientas con las que se integra</a></li>
+<li><a href="#title7">Comparativa con otras herramientas</a></li>
+<li><a href="#title8>¿Por qué escoger esta herramienta frente a otras?</a></li>
 
 </ul>
 
