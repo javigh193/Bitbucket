@@ -15,11 +15,10 @@
 <li><a href="#title5">Ejemplo de documentación de proyectos</a></li>
 <li><a href="#title6">Otras herramientas con las que se integra</a></li>
 <li><a href="#title7">Comparativa con otras herramientas</a></li>
-<li><a href="#title8>¿Por qué escoger esta herramienta frente a otras?</a></li>
+<li><a href="#title8">¿Por qué escoger esta herramienta frente a otras?</a></li>
 
 </ul>
 
-<br>
 
 ## <div id="title1">¿Qué es Bitbucket?</div>
 
