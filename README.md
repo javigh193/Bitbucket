@@ -417,11 +417,11 @@ Una vez configurada nuestra wiki, solo queda añadirle la documentación deseada
 
 <div align="center">
 
-<img src="img/prueba_wiki.png">
+<img src="img/prueba_wiki.PNG">
 
 <br><br>
 
-<img src="img/indice.png">
+<img src="img/indice.PNG">
 
 </div>
 
