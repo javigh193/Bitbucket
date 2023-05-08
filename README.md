@@ -620,7 +620,7 @@ Así pues Confluence nos da la opción de utilizar una serie de plantillas o bie
 
 <div align="center">
 
-<img src="img/creacion_espacio.png">
+<img src="img/creacion_espacio.PNG">
 
 </div>
 
@@ -633,7 +633,7 @@ Una vez elegida la plantilla (en nuestro caso se utilizará la de documentación
 
 <div align="center">
 
-<img src="img/nombre_plantilla.png">
+<img src="img/nombre_plantilla.PNG">
 
 </div>
 
@@ -645,7 +645,7 @@ Definido el espacio, solo queda la creación de páginas. Para ello, en la parte
 
 <div align="center">
 
-<img src="img/creacion_paginas.png">
+<img src="img/creacion_paginas.PNG">
 
 </div>
 
@@ -659,11 +659,11 @@ Además cabe la posibilidad de importar nuestros propios documentos externos par
 
 <div align="center">
 
-<img src="img/creacion_pagina2.png">
+<img src="img/creacion_pagina2.PNG">
 
 <br><br>
 
-<img src="img/creacion_pagina3.png">
+<img src="img/creacion_pagina3.PNG">
 
 </div>
 
@@ -675,7 +675,7 @@ Creadas las páginas estas se verán en nuestro espacio de la siguiente manera
 
 <div align="center">
 
-<img src="img/visualizacion_paginas.png">
+<img src="img/visualizacion_paginas.PNG">
 
 </div>
 
