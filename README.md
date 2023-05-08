@@ -362,15 +362,15 @@ Una vez realizado el proceso especificado en el trigger se irán realizando de m
 
 <div align="center">
 
-<img src="img/corriendo_pipelines.png">
+<img src="img/corriendo_pipelines.PNG">
 
 <br><br>
 
-<img src="img/finalizado_deployment_staging.png">
+<img src="img/finalizado_deployment_staging.PNG">
 
 <br><br>
 
-<img src="img/finalizado_deploy.png">
+<img src="img/finalizado_deploy.PNG">
 
 </div>
 
@@ -382,7 +382,7 @@ En este caso en particular, se ha especificado en el yml que el despliegue a pro
 
 <div align="center">
 
-<img src="img/lanzar_a_produccion.png">
+<img src="img/lanzar_a_produccion.PNG">
 
 </div>
 
