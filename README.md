@@ -19,6 +19,7 @@
 
 </ul>
 
+
 ## <div id="title1">¿Qué es Bitbucket?</div>
 
 Bitbucket Cloud es un servicio de 'hosting' basado en Git y una herramienta de colaboración para facilitar la coordinación de equipos de trabajo. Provee una solución completa para implementar un 'Desarrollo Continuo de Software' ( CI + CD ). 
