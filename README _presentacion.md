@@ -63,7 +63,7 @@ Cada herramienta de gestión de proyectos puede tener la suya propia. Atlassian 
     
 <br>
 
-Hay que tener en cuenta que el uso de la herramienta de integración y despliegue es independiente de la herramienta de gestión de proyectos que se esté utilizando.Bitbucket podría utilizarse junto con CI/CD de Gitlab, por ejemplo.
+Hay que tener en cuenta que el uso de la herramienta de integración y despliegue es independiente de la herramienta de gestión de proyectos que se esté utilizando. Bitbucket podría utilizarse junto con CI/CD de Gitlab, por ejemplo.
 
 En resumen las herramientas CI/CD simplifican el trabajo del desarollador, permitiendole definir una serie de reglas que automaticen en gran medida el flujo de trabajo posterior a la elaboración del código.
 
