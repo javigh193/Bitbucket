@@ -27,9 +27,9 @@ Uno de sus puntos fuertes es su integración con Jira y Trello, ambas herramient
 
 ## <div id="title2">¿Qué son las herramientas CI/CD?</div>
 
-CI y CD son las siglas correspondientes a Continous Integration y Continuous Deployment.
+CI y CD son las siglas correspondientes a Continuous Integration y Continuous Deployment.
 
-El concepto de Continous Integration se basa en la automatización de la integración de nuestro código a un repositorio central, donde 
+El concepto de Continuous Integration se basa en la automatización de la integración de nuestro código a un repositorio central, donde 
 cada commit que se realiza ejecuta un conjunto de tareas o tests encargados de verificar que el código es apto para hacer un merge sobre
 la rama main o master.
 
