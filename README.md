@@ -1,6 +1,6 @@
 <div align="justify">
 
-<div>
+<div heigth="200px">
     <img src="img/Atlassian_Bitbucket_Logo.png">
 </div>
 
