@@ -230,7 +230,7 @@ Se puede realizar la gestión de las ramas mediante menús:
 
 Como se ha mencionado en apartados anteriores, Bitbucket Cloud cuenta con una herramienta CI/CD integrada, Pipelines. Ésta nos permite, a través de un fichero yml la automatización de procesos de integración y despliegue.
 
-Para acceder a la creación de nuestro pipeline existen dos opciones. Se puede crear de forma manual, añadiendo un fichero yml desde cero, o bien pueden utilizarse las plantillas que proporciona la propia herramienta. 
+Para acceder a la creación de nuestro pipeline existen dos opciones: se puede crear de forma manual, añadiendo un fichero yml desde cero, o bien pueden utilizarse las plantillas que proporciona la propia herramienta. 
 
 Para poder habilitar Pipelines se deberá habilitar primero la verificación en dos pasos.
 
