@@ -184,9 +184,9 @@ Un workspace es un espacio donde podremos agrupar todos nuestros repositorios de
     
 Una vez creado el repositorio podrá ser clonado en local por medio de HTTPS o SSH.
 
-<div align="center">
-
 <br>
+    
+<div align="center">
 
 <img src="img/6.PNG" width="90%">
 
