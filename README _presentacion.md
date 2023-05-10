@@ -240,18 +240,22 @@ Para poder habilitar Pipelines se deberá habilitar primero la verificación en 
 
 <img src="img/15.PNG" width="90%">
 
+</div>
+
+<br>
+    
+A continuación se muestran algunas de las plantillas disponibles:
+
 <br>
 
+<div align="center">
+    
 <img src="img/16.PNG" width="90%">
 
 </div>
 
 <br>
-
-A continuación se muestran algunas de las plantillas disponibles:
-
-<br>
-
+    
 <div align="center">
 
 <img src="img/17.PNG" width="90%">
