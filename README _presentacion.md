@@ -499,10 +499,12 @@ Combinando estos tres elementos se pueden programar desde tareas sencillas, como
     <img src="img/automatizacion.png" width="90%"> 
 </div>
 
-<br><br>
-
-<img src="img/trello_logo.png" width="360">
-
+<br>
+    
+<div>
+    <img src="img/trello_logo.png" width="360">
+</div>
+    
 <br>
 
 Trello es una herramienta de gestión de proyectos muy visual y accesible. También aporta posibilidades de automatización de tareas y opciones de personalización de funcionalidades. 
