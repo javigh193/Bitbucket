@@ -33,7 +33,7 @@ El concepto de Continuous Integration se basa en la automatización de la integr
 cada commit que se realiza ejecuta un conjunto de tareas o tests encargados de verificar que el código es apto para hacer un merge sobre
 la rama main o master.
 
-Por otro lado el Contious Deployment, donde todo código que se encuentra testeado se despliega automáticamente bien en un servidor de testing o en un servidor de producción.
+Por otro lado el Continuous Deployment, donde todo código que se encuentra testeado se despliega automáticamente bien en un servidor de testing o bien en un servidor de producción.
 
 <br>
 
