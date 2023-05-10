@@ -334,7 +334,7 @@ A continuación el fichero yml en cuestión:
 
 <br>
 
-Por defecto el proceso CI/CD se ejecutará tras realizar un commit. 
+Por defecto el proceso CI/CD se ejecutará tras hacer push de un commit contra alguna rama. 
 
 Una vez realizado el proceso especificado en el trigger se irán realizando de manera secuencial los pasos descritos en el yml. 
 
