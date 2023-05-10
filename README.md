@@ -502,15 +502,13 @@ Combinando estos tres elementos se pueden programar desde tareas sencillas, como
     <img src="img/automatizacion.png"> 
 </div>
     
-<img src="img/trello_logo.png" width="400">
+<img src="img/trello_logo.png" width="350">
 
 Trello es una herramienta de gestión de proyectos muy visual y accesible. También aporta posibilidades de automatización de tareas y opciones de personalización de funcionalidades. 
 
 El elemento fundamental entorno al que gira todo es el tablero. El tablero nos aporta una visión general del estado del proyecto. 
 
-<div style="background: white; padding: 2vw;">
-    <img src="img/board.png">
-</div>
+<img src="img/board.png">
 
 Dentro del tablero se distinguen diferentes listas. Cada lista define una etapa por la que debe pasar una tarea durante su ciclo de vida. Trello permite al usuario definir sus propias listas, generando así un flujo de trabajo a medida de sus necesidades.
 
