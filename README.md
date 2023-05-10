@@ -1,8 +1,6 @@
 <div align="justify">
-
-<div height="200px">
-    <img src="img/Atlassian_Bitbucket_Logo.png" height="200">
-</div>
+    
+<img src="img/Atlassian_Bitbucket_Logo.png" height="200">
 
 ## Índice de contenidos
 
