@@ -1,6 +1,6 @@
 <div align="justify">
     
-<img src="img/Atlassian_Bitbucket_Logo.png" height="200">
+<img src="img/Atlassian_Bitbucket_Logo.png" width="600">
 
 ## Índice de contenidos
 
@@ -429,11 +429,7 @@ En el siguiente apartado se mostrará otra forma de realizar documentación a tr
 
 ## <div id="title6">Otras herramientas con las que se integran</div> 
 
-<div style="background: white; padding: 2vw;">
-    <img src="img/Jira_Logo.png">
-</div>
-
-<hr>
+<img src="img/Jira_Logo.png" width="600">
 
 Bitbucket está integrado con Jira, una herramienta, también de Atlassian, que permite gestionar equipos aplicando metodologías ágiles. Con Jira puedes gestionar tus proyectos durante todo su ciclo de vida dentro de un único contexto, facilitando así enormemente la coordinación y las tareas de seguimiento.  
 
@@ -505,10 +501,8 @@ Combinando estos tres elementos se pueden programar desde tareas sencillas, como
 <div style="background: white;">
     <img src="img/automatizacion.png"> 
 </div>
-
-<div style="background: white; padding: 2vw;">
-    <img src="img/trello_logo.png">
-</div>
+    
+<img src="img/trello_logo.png" width="600">
 
 <hr>
 
