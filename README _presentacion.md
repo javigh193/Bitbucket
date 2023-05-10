@@ -693,7 +693,7 @@ Otras diferencias notables entre ambas son:
 
 <ul>
 <li>Bitbucket puede importar repositorios de Git, Codeplex, GoogleCode, y SVN; GitHub solo puede importar de Git y parcialmente SVN</li>
-<li>La interfaz de Bitbucket es más limpia, pero se trata de un aspecto más bien subjetivo</li>
+<li>La interfaz de Bitbucket es más limpia, pero se trata de un aspecto más bien subjetivo.</li>
 <li>En GitHub solo los repositorios públicos pueden tener wiki de forma gratuita, en Bitbucket los repositorios pueden tener wiki gratuitamente independientemente de si son públicos o no.</li>
 <li>Para obligar a que las ramas de un repositorio tengan protección mediante permisos, GitHub requiere un plan de pago. En Bitbucket se pueden configurar de esta forma sin importar el plan.</li>
 <li>GitHub tiene una gran comunidad de código abierto en la que apoyarse para todo tipo de aspectos relacionados con el desarrollo web. Bitbucket dispone de múltitud de recursos online: webinars, tutoriales, documentación, etc.</li>
