@@ -48,7 +48,7 @@ Existen diversas herramientas de terceros para CI/CD como Circleci, TC, Buddy, C
 <br>
 
 <div>
-    <img src="img/Jenkins_logo.svg" width="50%" border="1">
+    <kbd><img src="img/Jenkins_logo.svg" width="50%"></kbd>
 </div>
 
 <br>
