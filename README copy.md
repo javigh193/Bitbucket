@@ -15,7 +15,7 @@
 <li><a href="#title5">Ejemplo de documentación de proyectos</a></li>
 <li><a href="#title6">Otras herramientas con las que se integra</a></li>
 <li><a href="#title7">Comparativa con otras herramientas</a></li>
-<li><a href="#title8">¿Por qué escoger esta herramienta frente a otras?</a></li>
+<li><a href="#title8">¿Por qué escoger Bitbucket?</a></li>
 
 </ul>
 
@@ -37,8 +37,8 @@ Por otro lado el Contious Deployment, donde todo código que se encuentra testea
 
 <br>
 
-<div style="text-align: center;">
-    <img src="img/CI_CD.png" width="80%">
+<div align="center">
+    <img src="img/CI_CD.png" width="90%">
 </div>
 
 <br>
@@ -73,8 +73,8 @@ Tenemos tres categorías de plan: gratuito, estándar y premium.
 
 <br>
 
-<div style="text-align: center;">
-    <img src="img/servicios_plan.png">
+<div align="center">
+    <img src="img/servicios_plan.png" width="90%">
 </div>
 
 <br>
@@ -83,8 +83,8 @@ Si suponemos un equipo de 5 usuarios, la cantidad máxima permitida dentro de la
 
 <br>
 
-<div style="text-align: center;">
-    <img src="img/precios.png">
+<div align="center">
+    <img src="img/precios.png" width="90%">
 </div>
 
 <br>
@@ -95,8 +95,8 @@ Esta opción parece ser un producto que ha dejado de tener sentido dentro de los
 
 <br>
 
-<div style="text-align: center;">
-    <img src="img/server.png">
+<div align="center">
+    <img src="img/server.png" width="90%">
 </div>
 
 <br>
@@ -118,8 +118,8 @@ Por referencias, la cantidad máxima seleccionable es 30.000 usuarios con un cos
 
 <br>
 
-<div style="text-align: center;">
-    <img src="img/data_center.png">
+<div align="center">
+    <img src="img/data_center.png" width="90%">
 </div>
 
 <br>
@@ -128,7 +128,7 @@ Se puede solicitar una demo:
 
 <br>
 
-<div style="text-align: center;">
+<div align="center">
     <img src="img/data_center_demo.png" width="90%">
 </div>
 
@@ -138,8 +138,8 @@ Se puede solicitar una demo:
 
 <br>
 
-<div style="text-align: center;">
-    <img src="img/comparativa.png">
+<div align="center">
+    <img src="img/comparativa.png" width="90%">
 </div>
 
 <br>
@@ -154,25 +154,23 @@ Un workspace es un espacio donde podremos agrupar todos nuestros repositorios de
 
 <div align="center">
 
-<br>
-
-<img src="img/1.PNG">
+<img src="img/1.PNG" width="90%">
 
 <br>
 
-<img src="img/2.PNG">
+<img src="img/2.PNG" width="90%">
 
 <br>
 
-<img src="img/3.PNG">
+<img src="img/3.PNG" width="90%">
 
 <br>
 
-<img src="img/4.PNG">
+<img src="img/4.PNG" width="90%">
 
 <br>
 
-<img src="img/5.PNG">
+<img src="img/5.PNG" width="90%">
 
 <br>
 
@@ -184,11 +182,11 @@ Una vez creado el repositorio podrá ser clonado en local por medio de HTTPS o S
 
 <br>
 
-<img src="img/6.PNG">
+<img src="img/6.PNG" width="90%">
 
 <br>
 
-<img src="img/8.PNG">
+<img src="img/8.PNG" width="90%">
 
 </div>
 
@@ -200,23 +198,23 @@ Se puede realizar la gestión de las ramas mediante menús:
 
 <div align="center">
 
-<img src="img/9.PNG">
+<img src="img/9.PNG" width="90%">
 
 <br>
 
-<img src="img/10.PNG">
+<img src="img/10.PNG" width="90%">
 
 <br>
 
-<img src="img/11.PNG">
+<img src="img/11.PNG" width="90%">
 
 <br>
 
-<img src="img/13.PNG">
+<img src="img/13.PNG" width="90%">
 
 <br>
 
-<img src="img/14.PNG">
+<img src="img/14.PNG" width="90%">
 
 </div>
 
@@ -234,11 +232,11 @@ Para poder habilitar Pipelines se deberá habilitar primero la verificación en 
 
 <div align="center">
 
-<img src="img/15.PNG">
+<img src="img/15.PNG" width="90%">
 
 <br>
 
-<img src="img/16.PNG">
+<img src="img/16.PNG" width="90%">
 
 </div>
 
@@ -250,7 +248,7 @@ A continuación se muestran algunas de las plantillas disponibles:
 
 <div align="center">
 
-<img src="img/17.PNG">
+<img src="img/17.PNG" width="90%">
 
 </div>
 
@@ -320,7 +318,7 @@ A continuación el fichero yml en cuestión:
 
 <div align="center">
 
-<img src="img/18.PNG">
+<img src="img/18.PNG" width="90%">
 
 </div>
 
@@ -334,15 +332,15 @@ Una vez realizado el proceso especificado en el trigger se irán realizando de m
 
 <div align="center">
 
-<img src="img/corriendo_pipelines.PNG">
+<img src="img/corriendo_pipelines.PNG" width="90%">
 
 <br>
 
-<img src="img/finalizado_deployment_staging.PNG">
+<img src="img/finalizado_deployment_staging.PNG" width="90%">
 
 <br>
 
-<img src="img/finalizado_deploy.PNG">
+<img src="img/finalizado_deploy.PNG" width="90%">
 
 </div>
 
@@ -354,7 +352,7 @@ En este caso en particular, se ha especificado en el yml que el despliegue a pro
 
 <div align="center">
 
-<img src="img/lanzar_a_produccion.PNG">
+<img src="img/lanzar_a_produccion.PNG" width="90%">
 
 </div>
 
@@ -368,8 +366,8 @@ Se pueden editar los documentos online. Permite obtener una previsualización de
 
 <br>
 
-<div style="text-align: center;">
-    <img src="img/menu_edicion.png">
+<div align="center">
+    <img src="img/menu_edicion.png" width="90%">
 </div>
 
 <br>
@@ -382,15 +380,15 @@ La creación de wikis en Bitbucket es muy sencilla. Simplmente habrá que habili
 
 <div align="center">
 
-<img src="img/wiki_page.PNG">
+<img src="img/wiki_page.PNG" width="90%">
 
 <br>
 
-<img src="img/prueba_wiki.PNG">
+<img src="img/prueba_wiki.PNG" width="90%">
 
 <br>
 
-<img src="img/indice.PNG">
+<img src="img/indice.PNG" width="90%">
 
 </div>
 
@@ -417,7 +415,7 @@ Jira permite la creación de tableros de incidencias para implementar metodolog�
 <br>
 
 <div>
-    <img src="img/Kanban.png">
+    <img src="img/Kanban.png" width="90%">
 </div>
 
 <br>
@@ -428,8 +426,8 @@ Las hojas de ruta permiten planificar la realización de las tareas sobre un eje
 
 <br> 
 
-<div>
-    <img src="img/roadmap.png">
+<div align="center">
+    <img src="img/roadmap.png" width="90%">
 </div>
 
 <br>
@@ -441,8 +439,8 @@ Jira facilita la generación de informes a partir de los datos generados dentro 
 <br>
 
 <div align="center">
-<span><img src="img/sprint_info.png"></span>
-<span><img src="img/issues_info.png"></span>
+<span><img src="img/sprint_info.png" width="42.2%"></span>
+<span><img src="img/issues_info.png" width="46%"></span>
 </div>
 
 <br>
@@ -453,8 +451,8 @@ Jira permite definir flujos de trabajo para los distintos tipos de incidencia ex
 
 <br>
 
-<div>
-    <img src="img/workflow_editor.png"> 
+<div align="center">
+    <img src="img/workflow_editor.png" width="90%"> 
 </div>
 
 <br>
@@ -465,7 +463,9 @@ Las incidencias y tareas se pueden definir de manera similar a los flujos de tra
 
 <br>
 
-<img src="img/jerarquia_issues.png"> 
+<div align="center">
+    <img src="img/jerarquia_issues.png" width="90%"> 
+</div>
 
 <br>
 
@@ -489,11 +489,13 @@ Combinando estos tres elementos se pueden programar desde tareas sencillas, como
 
 <br>
 
-<img src="img/automatizacion.png"> 
+<div align="center">
+    <img src="img/automatizacion.png" width="90%"> 
+</div>
 
-<br>
+<br><br>
 
-<img src="img/trello_logo.png" width="500">
+<img src="img/trello_logo.png" width="360">
 
 <br>
 
@@ -503,15 +505,19 @@ El elemento fundamental entorno al que gira todo es el tablero. El tablero nos a
 
 <br>
 
-<img src="img/board.png">
+<div align="center">
+    <img src="img/board.png" width="90%">
+</div>
 
 <br> 
 
 ## La tarjeta
 
 <br>
-   
-<img src="img/trello_card.png">
+
+<div align="center">   
+    <img src="img/trello_card.png" width="90%">
+</div>
 
 <br>
 
@@ -523,7 +529,9 @@ Trello ofrece vistas predefinidas que nos aportan una visión más en detalle de
 
 <br>
 
-<img src="img/timeline.webp">
+<div align="center">
+    <img src="img/timeline.webp" width="90%">
+</div>
 
 <br>
 
@@ -531,7 +539,9 @@ Trello ofrece vistas predefinidas que nos aportan una visión más en detalle de
 
 <br>
 
-<img src="img/calendar.webp">
+<div align="center">
+    <img src="img/calendar.webp" width="90%">
+</div>
 
 <br>
 
@@ -539,7 +549,9 @@ Trello ofrece vistas predefinidas que nos aportan una visión más en detalle de
 
 <br>
 
-<img src="img/dashboard.webp">
+<div align="center">
+    <img src="img/dashboard.webp" width="90%">
+</div>
 
 <br>
 
@@ -557,13 +569,15 @@ Mediante 'Butler', Trello permite automatizar casi cualquier acción mediante la
 
 <br>
 
-<img src="img/automatizacion.svg">
+<div align="center">
+    <img src="img/automatizacion.svg" width="90%">
+</div>
 
 <br>
 
-<br>
-
-<img src="img/butler.jpg">
+<div align="center">
+    <img src="img/butler.jpg" width="90%">
+</div>
 
 <br>
 
@@ -571,7 +585,9 @@ Mediante 'Butler', Trello permite automatizar casi cualquier acción mediante la
 
 https://www.youtube.com/watch?v=slU60fbyj70
 
-<img src="img/confluence_logo.png" width="400px">
+<div aling="center">
+    <img src="img/confluence_logo.png" width="400px">
+</div>
 
 <br>
 
@@ -584,12 +600,12 @@ Para la utilización de esta herramienta solo será necesaria una cuenta de Atla
 <br>
 
 <div align="center">
-
-<img src="img/creacion_espacio.PNG">
+    
+<img src="img/creacion_espacio.PNG" width="90%">
 
 <br>
 
-<img src="img/nombre_plantilla.PNG">
+<img src="img/nombre_plantilla.PNG" width="90%">
 
 </div>
 
@@ -601,7 +617,7 @@ Definido el espacio, solo queda la creación de páginas.
 
 <div align="center">
 
-<img src="img/creacion_paginas.PNG">
+<img src="img/creacion_paginas.PNG" width="90%">
 
 </div>
 
@@ -613,11 +629,11 @@ Al igual que en la creación de espacios, cada página puede ser creada desde ce
 
 <div align="center">
 
-<img src="img/creacion_pagina2.PNG">
+<img src="img/creacion_pagina2.PNG" width="90%"> 
 
 <br>
 
-<img src="img/creacion_pagina3.PNG">
+<img src="img/creacion_pagina3.PNG" width="90%">
 
 </div>
 
@@ -629,7 +645,7 @@ Creadas las páginas estas se verán en nuestro espacio de la siguiente manera:
 
 <div align="center">
 
-<img src="img/visualizacion_paginas.PNG">
+<img src="img/visualizacion_paginas.PNG" width="90%">
 
 </div>
 
@@ -641,7 +657,7 @@ Por último, Confluence nos brinda la opción de realizar exportaciones de nuest
 
 <div align="center">
 
-<img src="img/opciones_exportar.PNG">
+<img src="img/opciones_exportar.PNG" width="90%">
 
 </div>
 
@@ -649,7 +665,15 @@ Por último, Confluence nos brinda la opción de realizar exportaciones de nuest
 
 ### Bitbucket VS GitHub
 
-https://www.upguard.com/blog/bitbucket-vs-github
+<br>
+
+<div align="center">
+
+<img src="img/comparativa_vs.png" width="90%">
+
+</div>
+
+<br>
 
 La principal diferencia es que Bitbucket está pensado para repositorios privados y GitHub para repositorios públicos. Dicho ésto, a día de hoy ya se pueden tener repositorios privados en GitHub y públicos en Bitbucket, pero los diferentes enfoques dados a cada herramienta en su concepción siguen siendo apreciables. Un ejemplo de las diferentes filosofías es que GitHub puede ser utilizada como una red social para compartir tu código, siguiendo y siendo seguido por otros desarrolladores, opción no existente en Bitbucket.
 
@@ -666,8 +690,21 @@ Otras diferencias notables entre ambas son:
 
 ## <div id="title8">¿Por qué escoger Bitbucket?</div>
 
-Enfocarlo en la facilidad para integrar las diferentes herramientas de la familia Atlassian y la alta disponibilidad de recursos de soporte.
+La principal fortaleza de Bitbucket es su integración con el resto de las herramientas de Atlassian. Su amplio catálogo de aplicaciones nos permite cubrir todas las necesidades de nuestros proyectos dentro de un mismo entorno. 
 
+Otra de las ventajas es que todo está documentado y existen multitud de recursos como tutoriales o webinares para aprender como utilzar las distintas herramientas. 
+
+<br>
+
+<div align="center">
+
+<img src="img/familia.png" width="90%">
+
+</div>
+
+<br>
+
+Como vimos en el apartado de comparativa con GitHub, si nuestro objetivo es dar a conocer nuestro código y participar en una comunidad open source, Bitbucket no es la opción adecuada. Se trata de una herramienta diseñada para la gestión de proyectos profesionales. 
 
 </div>
 
