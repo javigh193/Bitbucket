@@ -47,7 +47,7 @@ Existen diversas herramientas de terceros para CI/CD como Circleci, TC, Buddy, C
 
 <br>
 
-<div>
+<div align="center">
     <img src="img/jenkins_nobg.png" width="66%">
 </div>
 
@@ -57,7 +57,7 @@ Cada herramienta de gestión de proyectos puede tener la suya propia. Atlassian 
 
 <br>
     
-<div>
+<div align="center">
     <img src="img/Bamboo_logo.png" width="50%">
 </div>
     
