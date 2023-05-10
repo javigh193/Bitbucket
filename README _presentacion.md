@@ -704,7 +704,7 @@ Otras diferencias notables entre ambas son:
 
 La principal fortaleza de Bitbucket es su integración con el resto de las herramientas de Atlassian. Su amplio catálogo de aplicaciones nos permite cubrir todas las necesidades de nuestros proyectos dentro de un mismo entorno. 
 
-Otra de las ventajas es que todo está documentado y existen multitud de recursos como tutoriales o webinares para aprender como utilzar las distintas herramientas. 
+Otra de las ventajas es que todo está documentado y existen multitud de recursos como tutoriales o webinares para aprender como utilizar las distintas herramientas. 
 
 <br>
 
