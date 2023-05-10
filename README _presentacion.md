@@ -57,7 +57,7 @@ Cada herramienta de gestión de proyectos puede tener la suya propia. Atlassian 
 
 <img src="img/Bamboo_logo.png" width="50%">
 
-<br>
+<br><br>
 
 Hay que tener en cuenta que el uso de la herramienta de integración y despliegue es independiente de la herramienta de gestión de proyectos que se esté utilizando.Bitbucket podría utilizarse junto con CI/CD de Gitlab, por ejemplo.
 
