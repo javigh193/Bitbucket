@@ -595,6 +595,8 @@ Mediante 'Butler', Trello permite automatizar casi cualquier acción mediante la
 
 https://www.youtube.com/watch?v=slU60fbyj70
 
+<br>
+    
 <div aling="center">
     <img src="img/confluence_logo.png" width="400px">
 </div>
