@@ -404,11 +404,11 @@ En el siguiente apartado se mostrará otra forma de realizar documentación a tr
 
 ## <div id="title6">Otras herramientas con las que se integran</div> 
 
-<br>
-
-<img src="img/Jira_Logo.png" width="600">
-
-<br>
+<br><hr>
+<div>
+    <img src="img/Jira_Logo.png" width="600">
+</div>
+<br><hr>
 
 Bitbucket está integrado con Jira, una herramienta, también de Atlassian, que permite gestionar equipos aplicando metodologías ágiles. Con Jira puedes gestionar tus proyectos durante todo su ciclo de vida dentro de un único contexto, facilitando así enormemente la coordinación y las tareas de seguimiento.  
 
@@ -499,6 +499,7 @@ Combinando estos tres elementos se pueden programar desde tareas sencillas, como
     <img src="img/automatizacion.png" width="90%"> 
 </div>
 
+<hr>
 <br>
     
 <div>
@@ -506,6 +507,7 @@ Combinando estos tres elementos se pueden programar desde tareas sencillas, como
 </div>
     
 <br>
+<hr>
 
 Trello es una herramienta de gestión de proyectos muy visual y accesible. También aporta posibilidades de automatización de tareas y opciones de personalización de funcionalidades. 
 
