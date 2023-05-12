@@ -41,7 +41,7 @@ Por otro lado el Contious Deployment, donde todo código que se encuentra testea
 
 <br>
 
-Existen diversas herramientas de terceros para CI/CD como puede ser Circleci, TC, Buddy, Concourse, entre otras. Pero sin embargo, la más popular de las herramientas de integración conitnua es Jenkins.
+Existen diversas herramientas de terceros para CI/CD como puede ser Circleci, TC, Buddy, Concourse, entre otras. Pero sin embargo, la más popular de las herramientas de integración continua es Jenkins.
 
 <div align="center">
 
