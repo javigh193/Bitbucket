@@ -449,7 +449,7 @@ Jira permite la creación de tableros de incidencias para implementar metodolog�
 
 ### Hojas de ruta
 
-Las hojas de ruta permiten planificar la realización de las tareas sobre un eje temporal. Las tareas más grandes, las principales, se dividen en tareas más pequeñas, las secundarias. Las tareas secundarias son dependientes de la tearea principal que las origina, las dependencias entre diferenetes tareas principales tambíen se ven reflejadas y son tenidas en cuenta a la hora de realizar la planificación. 
+Las hojas de ruta permiten planificar la realización de las tareas sobre un eje temporal. Las tareas más grandes, las principales, se dividen en tareas más pequeñas, las secundarias. Las tareas secundarias son dependientes de la tarea principal que las origina, las dependencias entre diferenetes tareas principales tambíen se ven reflejadas y son tenidas en cuenta a la hora de realizar la planificación. 
 
 <div>
     <img src="img/roadmap.png">
